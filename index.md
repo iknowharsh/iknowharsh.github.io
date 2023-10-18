@@ -1,7 +1,7 @@
 ---
-title: Jekyll Serif Theme
+title: Solacept
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: "Solacept: Redefining IT with Seamless ITaaS, Robust Infrastructure, and Cutting-Edge Cybersecurity – Your Path to a Revolutionized Digital Journey!"
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
